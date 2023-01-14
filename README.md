@@ -1,4 +1,4 @@
- # Searching with trees
+ # Searching with Trees
 
  #### By Vanshika Sinha
 
